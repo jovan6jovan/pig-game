@@ -121,6 +121,7 @@ button:hover i { margin-right: 10px; }
     position: absolute;
     top: 2.5vh;
     font-size: 20px;
+    text-align: center;
     color: #fff;
 }
 
