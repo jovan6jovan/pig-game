@@ -265,7 +265,7 @@ button:hover i { margin-right: 10px; }
     }
 
     .roll-and-hold__container {
-        height: 100%;
+        height: 50%;
     }
 
     .btn-roll { 
@@ -274,7 +274,7 @@ button:hover i { margin-right: 10px; }
     }
     .btn-hold { 
         color: #555;
-        top: 85%;
+        top: 90%;
     }
     
     .dice-0 {
