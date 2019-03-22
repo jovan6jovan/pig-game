@@ -88,6 +88,7 @@ body {
 
 .player-current-score {
     font-size: 20px;
+    padding: 5px;
 }
 
 button {
@@ -135,7 +136,7 @@ button:hover i { margin-right: 12px; }
 .roll-and-hold__container {
     width: 100%;
     position: absolute;
-    bottom: 2.5vh;
+    top: 93.5vh;
     display: flex;
     justify-content: space-around;
 }
@@ -239,6 +240,7 @@ button:hover i { margin-right: 12px; }
     
     .player-current-score {
         font-size: 30px;
+        padding: 10px;
     }
     
     button {
